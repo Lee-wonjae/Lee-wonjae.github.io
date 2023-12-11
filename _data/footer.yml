@@ -8,6 +8,8 @@
       link: /services/
     - name: Contact_info
       link: /contact/
+      name: DownLoad
+      link: /DownLoad/
       
 - title: Social
   links:
